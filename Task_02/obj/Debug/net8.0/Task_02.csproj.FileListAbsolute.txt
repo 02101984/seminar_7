@@ -1,0 +1,15 @@
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\bin\Debug\net8.0\Task_02.exe
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\bin\Debug\net8.0\Task_02.deps.json
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\bin\Debug\net8.0\Task_02.runtimeconfig.json
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\bin\Debug\net8.0\Task_02.dll
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\bin\Debug\net8.0\Task_02.pdb
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfoInputs.cache
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.AssemblyInfo.cs
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.sourcelink.json
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.dll
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\refint\Task_02.dll
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.pdb
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\Task_02.genruntimeconfig.cache
+C:\Users\КОСТИК\OneDrive\Рабочий стол\Разработчик\Знакомство с языками\домашняя работа\Д.З к 7 уроку\Task_\Task_02\obj\Debug\net8.0\ref\Task_02.dll
